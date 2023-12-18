@@ -15,6 +15,6 @@ This project addresses the academic performance of students enrolled in the depa
 8. after creating database name click on import.
 9. browse the file in directory ```[CIE - BlankDB.sql]```.
 10. after importing successfully.
-11. open any browser and type http://localhost/CIE-Entry-System.
+11. open any browser and type ```http://localhost/CIE-Entry-System```.
 12. first register and then login
 13. admin login details username = FAC01 and Password=admin.
